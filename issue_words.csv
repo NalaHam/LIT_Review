@@ -1,0 +1,439 @@
+"","Var1","Freq"
+"1","46",1
+"2","abdominal aortic aneurysms",1
+"3","acidosis",1
+"4","acute inflammatory conditions",1
+"5","acute myocardial infarction",1
+"6","adaptive immunity",1
+"7","adolescent alchohol consumption",1
+"8","adolescent delinquency",1
+"9","advanced maternal age",1
+"10","age",1
+"11","ageing",1
+"12","aggressive and non-agressive risk taking",1
+"13","aging",4
+"14","aicardi syndrome",1
+"15","AIDS antiretroviral therapy",1
+"16","alcoholism",1
+"17","alloparental care",1
+"18","alport's syndrome",1
+"19","alveolar soft-part sarcoma",1
+"20","alzheimer's",1
+"21","amyotrophic lateral sclerosis",1
+"22","androgen insensitivity",1
+"23","androgen insensitivity receptor",1
+"24","anemia",1
+"25","AngII-induced abdominal aortic aneurysms",1
+"26","angiodema",1
+"27","animal fitness",1
+"28","anti-social behavior",1
+"29","antidiuretic response to demopressin",2
+"30","antisocial behavior",2
+"31","ASD",1
+"32","asthma",1
+"33","autism",8
+"34","autism spectrum disorder",3
+"35","autism spectrum disorders",5
+"36","autism-like phenotypes",1
+"37","autoimmune",10
+"38","autoimmune disease",16
+"39","autoimmune diseases",11
+"40","autoimmune disorders",1
+"41","autoimmune hepatitis",1
+"42","autoimmune liver disease",1
+"43","autoimmune liver diseases",1
+"44","autoimmune thyroid diseae",1
+"45","autoimmune thyroid disease",1
+"46","autoimmune thyroid diseases",1
+"47","autoimmunity",1
+"48","autosomal recessive erythropoietic protoporphyria and x-linked protoporphyria",1
+"49","behavioral",2
+"50","behavioral disorders",1
+"51","bladder cancer",1
+"52","body composition",1
+"53","body weight",1
+"54","bone density",1
+"55","borjeson-forssman-lehmann syndrome",1
+"56","bpd",2
+"57","BPD",1
+"58","BRAC1-related human cancer syndromes",1
+"59","brain",13
+"60","brain and behavior",1
+"61","brain carnitine deficiency",1
+"62","brain developent",1
+"63","brain development and function",1
+"64","brain diseases",1
+"65","brain function",2
+"66","brain masculinisation",1
+"67","brain sexual differentiation",1
+"68","brain structure and function",1
+"69","brain tumor",1
+"70","brain-based disorders",1
+"71","breast",2
+"72","cancer",20
+"73","cancer (carcinoma)",1
+"74","cardiomyopathies",1
+"75","cardiovascular",4
+"76","cardiovascular disease",3
+"77","cardiovascular system",1
+"78","cattle pregnancy",2
+"79","CDKL5 deficiency disorder",1
+"80","cerebral cortical dysgenesis",1
+"81","charcot-marie-tooth disease",1
+"82","charcot-marie-tooth disease type 1X",1
+"83","child behvioral problems",1
+"84","childhood-onset SLE",1
+"85","chromosomal instability",1
+"86","chronic autoimmune thyroiditis",1
+"87","chronic liver disease",1
+"88","chronic myelogenous leukemia",1
+"89","chronic myeloproliferative disorders",1
+"90","chronic pain",2
+"91","chronic post-traumatic pain",1
+"92","cigarette smoking",1
+"93","co-morbid chronic muscuoskeletal pain",1
+"94","cognitive ability",1
+"95","cognitive and personality variability",1
+"96","complex autoimmune disorders",1
+"97","complex disease",1
+"98","complex diseases",1
+"99","complex regional pain syndrome",1
+"100","complex traits",1
+"101","congenital arhinia",1
+"102","congenital generalized hypertrichosis",1
+"103","corectal cancer",1
+"104","cornelia de lange syndrome",1
+"105","coronary heart disease",1
+"106","covid",3
+"107","COVID",7
+"108","cranial neural tube defect",1
+"109","craniofrontonasal syndrome",1
+"110","cutaneous melanoma",1
+"111","CVD",1
+"112","delayed child bearing",1
+"113","delayed motor development",1
+"114","dementia",1
+"115","depression",4
+"116","depression during adolesence",1
+"117","depressive symptoms",1
+"118","differential gene expression in monozygotic twins",1
+"119","disease response",1
+"120","disease susceptibility",1
+"121","dominance",1
+"122","dosage compensation",1
+"123","down syndrome",1
+"124","down's syndrome",1
+"125","dry eye disease",1
+"126","dyskeratosis congenita",1
+"127","dysmyelination",1
+"128","early human placenta",1
+"129","early-onset stroke",1
+"130","EEMR",1
+"131","EFMR",1
+"132","embryo lethality",1
+"133","embryo metabolism",1
+"134","embryo survival",1
+"135","embryonic development",2
+"136","epilepsy",2
+"137","epilepsy and mental retardation limited to females",1
+"138","epilepsy with intellectual disability limited to females",1
+"139","ESRD",1
+"140","exci",1
+"141","exercise physiology",1
+"142","fabry disease",5
+"143","fabry's disease",2
+"144","facioscapulohumeral muscular dystrophy type 2",1
+"145","fat distribution",1
+"146","female embryonic development",1
+"147","female germ cells",1
+"148","fertile A. azare females",1
+"149","fetal and neonatal morbitiy and mortalitity",1
+"150","fetal growth",2
+"151","fetal ovarian development",1
+"152","fetus",1
+"153","fragile x",1
+"154","fragile X",1
+"155","fragile x syndrome",2
+"156","fragile x-related disorders",1
+"157","gall bladder cancer",1
+"158","gastric",1
+"159","gastric cancer",1
+"160","gene conservation",1
+"161","gene expression",1
+"162","gene regulation",1
+"163","genetic pathologies",1
+"164","gliomas",1
+"165","glucose-6-phosphate-dehydrogenase deficiency",1
+"166","haemophilia",1
+"167","haemophilia A",2
+"168","hearing",1
+"169","height",1
+"170","hemophilia",2
+"171","hemophilia A",3
+"172","hemophilia B",1
+"173","hepatic diseases",1
+"174","hereditary ocular disorders",1
+"175","HIGM1",1
+"176","HIV",2
+"177","HIV-1",1
+"178","HIV/AIDS",1
+"179","homosexual",1
+"180","human brain",2
+"181","human pituitary tumors",1
+"182","hunter syndrome",1
+"183","hyper-IgM syndrome",1
+"184","hyperplasia",1
+"185","hypertension",1
+"186","hypoplasia",1
+"187","hypotonia",1
+"188","hypotrophy",1
+"189","icf syndrome",1
+"190","ICF syndrome",1
+"191","icthyosis",1
+"192","idiopathic intellectual disability",1
+"193","immune",4
+"194","immune diseases",1
+"195","immune reconstitution inflammatory syndrome",1
+"196","immune response",5
+"197","immune responses",1
+"198","immunity",5
+"199","immunological",1
+"200","immunometabolism",1
+"201","imprinting disorders",1
+"202","incontinentia pigmenti bloch-sulzberger syndrome",1
+"203","infant",2
+"204","infections",1
+"205","infectious",2
+"206","infectious disease",1
+"207","infertility",1
+"208","inflammation",2
+"209","inflammatory",1
+"210","inflammatory disease",1
+"211","inflammatory response",1
+"212","inflammatry diseases",1
+"213","innate immunity",1
+"214","intellectual",1
+"215","intellectual disability",4
+"216","intelligence",1
+"217","intrasex variability",1
+"218","IPEX syndrome",1
+"219","ischemia",1
+"220","ischemic heart disease",1
+"221","ischemic stroke",2
+"222","JIA",1
+"223","juvenile idiopathic arthritis",1
+"224","kabuki syndrome",1
+"225","Kabuki syndrome",1
+"226","kallmann syndrome",1
+"227","key brain structures",1
+"228","kidney cancer",1
+"229","klinefelter",3
+"230","klinefelter genotype",1
+"231","klinefelter's",2
+"232","Klinefelter's syndrome",2
+"233","KS",2
+"234","learning",1
+"235","leukemia",1
+"236","life expectancy",1
+"237","linear skin-defects syndromes",1
+"238","Lipopolysaccharide-mediated acute inflammation",1
+"239","longevity",1
+"240","loss of t-cell tolerance",1
+"241","lubag disease",1
+"242","lung adenocarcinoma",1
+"243","lung cancer",2
+"244","lupus",5
+"245","lupus erythematosus",1
+"246","lymphoblastic leukemia",1
+"247","lymphomagenesis",1
+"248","major depressive disorder",2
+"249","male sle",1
+"250","male specific diseases",1
+"251","male sterility",1
+"252","mammalian oogenesis",1
+"253","mean arterial pressure",1
+"254","MECP2 duplication syndrome",1
+"255","melanoma",3
+"256","melanoma development",1
+"257","memory",1
+"258","menkes disease",1
+"259","mental disorders",1
+"260","metaboic response",1
+"261","metabolic disease",2
+"262","micronuclei",1
+"263","micropthalmia",1
+"264","mixed gonadal dysgenesis",1
+"265","monogenic disorders",1
+"266","mood disorder",1
+"267","mood disorders",1
+"268","ms",1
+"269","MS",1
+"270","multiple sclerosis",5
+"271","multple sclerosis",1
+"272","muscle disorders",2
+"273","muscle profile",1
+"274","myasthenia gravis",1
+"275","myeloid stem-cell disorders",1
+"276","mysenthia gravis",1
+"277","naternal aberrant vascular reactivity",1
+"278","neonatal morbidity and mortality",1
+"279","nervous system",3
+"280","neural tube defects",2
+"281","neurobehavioral disease",1
+"282","neurodevelopment",1
+"283","neurodevelopmental disorders",3
+"284","neurological",13
+"285","neurological development",1
+"286","neurological disease",1
+"287","neurological diseases",2
+"288","neuromuscular autoimmune disease",1
+"289","neuromyelitis optica spectrum disorder",1
+"290","neuropsychatric disorders",1
+"291","neuropsychiatric",2
+"292","neuropsychiatric and neurodevelopmental disorders",1
+"293","neuropsychiatric disorders",2
+"294","neuropyschiatric",1
+"295","NMSOD",1
+"296","non-infectious diseases",1
+"297","non-small cell lung cancer",1
+"298","obesity",2
+"299","obseity",1
+"300","occipital horn syndrome",1
+"301","oculo-facio-cardio-dental syndrome",1
+"302","oculocerebrocutaneous syndrome",1
+"303","OFCD",1
+"304","OFCs",1
+"305","oogenesis",1
+"306","oral-facial-digital type I",1
+"307","orofacial clefts",2
+"308","osteoporosis",1
+"309","ovarian",1
+"310","ovarian cancer",1
+"311","ovarian development and function",1
+"312","paediatric",2
+"313","parent-of-origin placental growth abnormalities",1
+"314","parental care",1
+"315","parkinson's disease",2
+"316","pathogenesis",1
+"317","pectus excavatum",1
+"318","peculiar electroencephalographic",1
+"319","perinatal complications",1
+"320","pervasive developmental disorder",1
+"321","picomaviruses",1
+"322","placental metabolic dysfunction",1
+"323","polycystic kidney",1
+"324","posttraumatic stress syndroms",1
+"325","pre-eclampsia",1
+"326","preeclampsia and fetal growth restriction",1
+"327","pregnacy",3
+"328","pregnancy",2
+"329","preimplantation development",1
+"330","premature ovarian insufficiency",1
+"331","prenatal alcohol exposure",1
+"332","prenatal and infant deaths",1
+"333","prenatal sex differentiation",1
+"334","prenatal stress",1
+"335","primary alcoholism",1
+"336","primary biliary cholangitis",1
+"337","primary biliary chonlangitis",1
+"338","primary biliary cirrhosis",1
+"339","primary biliry chrolangitis",1
+"340","primary billiary cirrhosis",1
+"341","primary ovarian insufficiency",2
+"342","primary sclerosing cholangitis",1
+"343","progressive adolescent idiopathic sclerosis",1
+"344","progressive myelopathy",1
+"345","psychiatic disease",1
+"346","psychiatric diseases",1
+"347","psychiatric disorders",1
+"348","psychopathological conditions",1
+"349","psychosis",1
+"350","ptsd",1
+"351","pubertal events",1
+"352","pulmonary arterial hypertension",1
+"353","pulmonary hypertension",1
+"354","pyruvate dehydrogenase complex deficiency",1
+"355","recurrent infections",1
+"356","recurrent spontaneous abortion",1
+"357","renal disease",1
+"358","reperifusion",1
+"359","reproductive function",1
+"360","response to nanomaterials",1
+"361","rett syndrome",7
+"362","rheumatic",1
+"363","rheumatoid arthritis",1
+"364","SARS",1
+"365","SARS-CoV-2",1
+"366","schizoaffective psychosis",1
+"367","schizophrenia",3
+"368","self-esteem",1
+"369","sepsis",1
+"370","serotonin system",1
+"371","sex chromosome function",1
+"372","sex determination",1
+"373","sex organs",1
+"374","sex ratio",2
+"375","sexual dimorphic development",1
+"376","sexual orientation",1
+"377","short stature",1
+"378","sjogren's syndrome",2
+"379","sle",9
+"380","SLE",6
+"381","speech delay",1
+"382","spermatogensis",1
+"383","spinal and bulbar muscular atrophy",1
+"384","spinal muscular atrophy",1
+"385","spontaneous abortions",1
+"386","spontaneous haemophilia A",1
+"387","squamous cell carcinoma",1
+"388","sterility",1
+"389","stress",1
+"390","stroke",3
+"391","STS",2
+"392","susceptibility to UV suppression",1
+"393","synovial sarcoma",1
+"394","systemic autoimmune diseases",1
+"395","systemic immunosuppression detectable as suppression of contact hypersensitivity",1
+"396","systemic sclerosis",1
+"397","T-ALL",2
+"398","tau burden/alzheimer's",1
+"399","teeth",1
+"400","testicular feminization",1
+"401","tetrazoospermia",1
+"402","three-dimensional spinal deformity of idopathic sclerosis",1
+"403","thrombocyte MAO activity",1
+"404","thyroid",2
+"405","thyroid autoimmunity",1
+"406","thyroid cancer",1
+"407","TS",1
+"408","tuberculosis",1
+"409","tumor progression",1
+"410","turnder syndrome phenotype",1
+"411","turner sydrome",1
+"412","turner syndrome",2
+"413","Turner syndrome",1
+"414","turner's syndrome",1
+"415","Turner's syndrome",1
+"416","type 1 diabetes",1
+"417","type 1 HIGM1",1
+"418","viral infection",1
+"419","viral infections",1
+"420","X-ALD",1
+"421","x-linked adrenoleukodystrophy",1
+"422","X-linked adrenoleukodystrophy",1
+"423","X-linked agammaglobulinemia",1
+"424","x-linked alport syndrome",1
+"425","X-linked alport syndrome",1
+"426","x-linked conditions",1
+"427","x-linked disal motor neuropathy",1
+"428","x-linked disease",1
+"429","x-linked disorders",3
+"430","x-linked dystonia-parkinsonism",2
+"431","x-linked hypohidrotic ectodermal dysplasia",1
+"432","x-linked lysosomal storage diorder",1
+"433","x-linked mental deficiency",1
+"434","x-linked recessive ichthyosis",1
+"435","x-linked retinitis pigmentosa",1
+"436","XLAS",1
+"437","XO turner syndrome",1
+"438","XX testicular disorder of sex development",1
